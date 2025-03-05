@@ -10,6 +10,13 @@
 <h1 align="center">Hotel Management System</h1>
 
 
+
+![Screenshot 2024-05-30 124130](https://github.com/user-attachments/assets/7378b375-5a2f-460e-9b67-44d20d36499b)
+![Screenshot 2024-05-30 124116](https://github.com/user-attachments/assets/9b4d1b82-6f43-4209-94c5-ab81bc106b15)
+![Screenshot 2024-05-30 124054](https://github.com/user-attachments/assets/662dd30b-b7aa-412f-ba7f-5d8f61d8c276)
+![Screenshot 2024-05-30 124207](https://github.com/user-attachments/assets/0864c2bb-bcb6-4f85-8022-2bab520ebaf2)
+![Screenshot 2024-05-30 124139](https://github.com/user-attachments/assets/86abd126-fe8c-4b89-8033-7fb76717199e)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
