@@ -95,7 +95,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col d-flex align-items-center">
-                    <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">9810736475</a> or <span class="mailus">email us:</span> <a href="#">akash494233@outlook.com</a></p>
+                    <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">XXXXXXXXX</a> or <span class="mailus">email us:</span> <a href="#">@gmail.com</a></p>
                 </div>
                 <div class="col d-flex justify-content-end">
                     <div class="social-media">
