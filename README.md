@@ -9,6 +9,7 @@
 
 <h1 align="center">Hotel Management System</h1>
 
+![Screenshot 2024-05-30 124054](https://github.com/user-attachments/assets/592a46ff-728e-4b6a-9a75-f0047e754321)
 
 
 ![Screenshot 2024-05-30 124130](https://github.com/user-attachments/assets/7378b375-5a2f-460e-9b67-44d20d36499b)
