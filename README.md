@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Hotel Management System
+#Hotel Management System
 This is a complete Hotel Management System web application built using HTML, CSS, JavaScript for the frontend and PHP (Laravel) for the backend.
 
-Features
+#Features
 User registration and login
 
 Room booking and availability check
@@ -14,7 +14,7 @@ Payment integration (if any)
 
 Clean and responsive UI
 
-Technologies Used
+#Technologies Used
 Frontend: HTML, CSS, JavaScript
 
 Backend: PHP (Laravel Framework)
