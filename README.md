@@ -1,5 +1,39 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+Hotel Management System
+This is a complete Hotel Management System web application built using HTML, CSS, JavaScript for the frontend and PHP (Laravel) for the backend.
+
+Features
+User registration and login
+
+Room booking and availability check
+
+Admin dashboard for managing rooms, bookings, and users
+
+Payment integration (if any)
+
+Clean and responsive UI
+
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP (Laravel Framework)
+
+Database: MySQL
+
+Setup Instructions
+Clone the repository
+
+Configure .env file for database and environment settings
+
+Run composer install
+
+Run migrations: php artisan migrate
+
+Serve the project: php artisan serve
+
+License
+This project is open-source and free to use.
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
